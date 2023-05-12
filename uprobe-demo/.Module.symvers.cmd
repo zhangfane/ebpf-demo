@@ -1,0 +1,1 @@
+savedcmd_/home/zfane/CLionProjects/untitled1/uprobe-demo/Module.symvers :=  scripts/mod/modpost  -a    -N -o /home/zfane/CLionProjects/untitled1/uprobe-demo/Module.symvers -n -T /home/zfane/CLionProjects/untitled1/uprobe-demo/modules.order -i Module.symvers -e 

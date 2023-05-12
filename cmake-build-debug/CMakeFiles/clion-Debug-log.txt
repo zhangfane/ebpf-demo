@@ -1,0 +1,6 @@
+/home/zfane/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/zfane/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/231.8109.222/bin/ninja/linux/x64/ninja -G Ninja -S /home/zfane/CLionProjects/untitled1 -B /home/zfane/CLionProjects/untitled1/cmake-build-debug
+-- Kernel release: 6.3.1-zen1-1-zen
+-- Kernel headers: KERNELHEADERS_DIR-NOTFOUND
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/zfane/CLionProjects/untitled1/cmake-build-debug

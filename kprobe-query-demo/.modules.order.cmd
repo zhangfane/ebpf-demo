@@ -1,0 +1,1 @@
+savedcmd_/home/zfane/CLionProjects/untitled1/kprobe-query-demo/modules.order := {   echo /home/zfane/CLionProjects/untitled1/kprobe-query-demo/main.o; :; } > /home/zfane/CLionProjects/untitled1/kprobe-query-demo/modules.order

@@ -1,0 +1,1 @@
+savedcmd_/home/zfane/CLionProjects/untitled1/kprobe-query-demo/main.mod := printf '%s\n'   main.o | awk '!x[$$0]++ { print("/home/zfane/CLionProjects/untitled1/kprobe-query-demo/"$$0) }' > /home/zfane/CLionProjects/untitled1/kprobe-query-demo/main.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/zfane/CLionProjects/untitled1/kprobe-query-demo/Module.symvers :=  scripts/mod/modpost  -a    -N -o /home/zfane/CLionProjects/untitled1/kprobe-query-demo/Module.symvers -n -T /home/zfane/CLionProjects/untitled1/kprobe-query-demo/modules.order -i Module.symvers -e 
